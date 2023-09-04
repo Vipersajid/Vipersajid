@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vipersajid
+- 👋 Hi, I’m @SajidAli
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
